@@ -717,18 +717,6 @@ body, html{
 	animation-delay: 4800ms;
 }
 
-.third--canvas .center--line h1 > span:nth-child(20){
-	animation-delay: 4900ms;
-}
-
-.third--canvas .center--line h1 > span:nth-child(21){
-	animation-delay: 5000ms;
-}
-
-.third--canvas .center--line h1 > span:nth-child(22){
-	animation-delay: 5100ms;
-}
-
 .third--canvas > img{
 	position: absolute;
 	width:auto;
