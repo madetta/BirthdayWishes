@@ -636,7 +636,7 @@ body, html{
 
 .third--canvas .center--line h1 > span{
 	position: relative;
-	top:1em;
+	top:2em;
 	opacity: 0;
 	animation:thirdCanvasLastText 100ms ease 3s 1 forwards;
 }
