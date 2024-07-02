@@ -631,12 +631,12 @@ body, html{
 	color:#1080f2;
 	text-transform: uppercase;
 	margin:0;
-	font-size:5em;
+	font-size:3em;
 }
 
 .third--canvas .center--line h1 > span{
 	position: relative;
-	top:2em;
+	top:1em;
 	opacity: 0;
 	animation:thirdCanvasLastText 100ms ease 3s 1 forwards;
 }
@@ -691,6 +691,42 @@ body, html{
 
 .third--canvas .center--line h1 > span:nth-child(13){
 	animation-delay: 4200ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(14){
+	animation-delay: 4300ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(15){
+	animation-delay: 4400ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(16){
+	animation-delay: 4500ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(17){
+	animation-delay: 4600ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(18){
+	animation-delay: 4700ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(19){
+	animation-delay: 4800ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(20){
+	animation-delay: 4900ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(21){
+	animation-delay: 5000ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(22){
+	animation-delay: 5100ms;
 }
 
 .third--canvas > img{
