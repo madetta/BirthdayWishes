@@ -41,4 +41,4 @@ let removeSecondCanvas = setTimeout(function(){
 let removeThirdCanvas = setTimeout(function(){
 	thirdCanvas.setAttribute("style","display:none");
 	fourthCanvas.setAttribute("style","display:block")
-},14800)
+},15500)
