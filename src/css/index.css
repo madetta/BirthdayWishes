@@ -802,6 +802,26 @@ body, html{
 	}
 }
 
+.canvas--remove2{
+	position: absolute;
+	width:100%;
+	height: 0%;
+	left:0;
+	bottom:0;
+	background: #fff;
+	z-index: 2;
+	animation:canvasRemove2 500ms ease 6100ms 1 forwards;
+}
+
+@keyframes canvasRemove2{
+	from{
+		height: 0%;
+	}
+	to{
+		height: 100%;
+	}
+}
+
 /* fourth canvas*/
 
 .fourth--canvas{
