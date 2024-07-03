@@ -810,7 +810,7 @@ body, html{
 	bottom:0;
 	background: #fff;
 	z-index: 2;
-	animation:canvasRemove2 500ms ease 6100ms 1 forwards;
+	animation:canvasRemove2 500ms ease 8100ms 1 forwards;
 }
 
 @keyframes canvasRemove2{
